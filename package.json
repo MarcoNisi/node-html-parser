@@ -78,11 +78,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/taoqf/node-fast-html-parser.git"
+		"url": "https://github.com/MarcoNisi/node-fast-html-parser.git"
 	},
 	"bugs": {
-		"url": "https://github.com/taoqf/node-fast-html-parser/issues"
+		"url": "https://github.com/MarcoNisi/node-fast-html-parser/issues"
 	},
-	"homepage": "https://github.com/taoqf/node-fast-html-parser",
+	"homepage": "https://github.com/MarcoNisi/node-fast-html-parser",
 	"sideEffects": false
 }
